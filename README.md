@@ -50,15 +50,15 @@ Esse repositório visa ajudar os alunos a entender melhor a aplicação da POO c
 
 1. **Preencher um vetor com nove números inteiros, calcular e mostrar os números primos e suas posições.**  
    - **Objetivo**: Identificar números primos em um vetor de 9 elementos e mostrar sua posição.  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)
 
 2. **Loja de artesanato: cálculo de vendas e comissão de 5% sobre o total.**  
    - **Objetivo**: Armazenar preços e quantidades vendidas, calcular o total de vendas e comissão do vendedor. Exibir relatório e mostrar o objeto mais vendido.  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
 
 3. **Preencher dois vetores de 10 elementos e intercala-los em um único vetor.**  
    - **Objetivo**: Gerar um vetor com elementos intercalados de dois vetores fornecidos.  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)
 
 4. **Preencher um vetor com 8 números inteiros e gerar vetores de positivos e negativos.**  
    - **Objetivo**: Separar os números positivos e negativos em vetores distintos.  
