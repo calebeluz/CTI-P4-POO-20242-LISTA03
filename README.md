@@ -62,60 +62,59 @@ Esse repositório visa ajudar os alunos a entender melhor a aplicação da POO c
 
 4. **Preencher um vetor com 8 números inteiros e gerar vetores de positivos e negativos.**  
    - **Objetivo**: Separar os números positivos e negativos em vetores distintos.  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)
 
 5. **Operações entre dois vetores X e Y de 10 elementos: união, diferença, soma, produto e intersecção.**  
    - **Objetivo**: Realizar operações de união, diferença, soma, produto e intersecção entre dois vetores.  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)
 
 6. **Preencher um vetor com 10 números inteiros e ordená-los de forma decrescente.**  
    - **Objetivo**: Ordenar um vetor de inteiros em ordem decrescente.  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)
 
 7. **Preencher um vetor com 8 números inteiros e armazená-los de forma crescente.**  
    - **Objetivo**: Receber números e armazená-los diretamente em ordem crescente.  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)
 
 8. **Preencher dois vetores com 5 elementos inteiros cada e gerar um terceiro vetor ordenado com a junção dos dois.**  
    - **Objetivo**: Criar um vetor contendo a junção ordenada de dois vetores.  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)
 
 9. **Sistema de reservas de passagens aéreas com opções de consulta e confirmação.**  
    - **Objetivo**: Implementar um sistema que consulte e reserve passagens de voo, verificando disponibilidade.  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)
 
 10. **Corrigir provas de múltipla escolha, calcular a nota dos alunos e a porcentagem de aprovação.**  
    - **Objetivo**: Corrigir respostas de alunos, calcular a nota e determinar a porcentagem de aprovação (mínimo 6).  
-   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
+   - [Exemplo de solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCICIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
 
 ---
 
 ## Exercícios de POO do Capítulo 8
 
 1. **Retornar 1 se o número for positivo, ou 0 se for negativo.**  
-   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCIC%C3%8DOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)
+   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)
 
 2. **Somar os inteiros entre dois números positivos.**  
-   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCIC%C3%8DOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
+   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
 
 3. **Somar os inteiros entre dois números divisíveis por um terceiro número.**  
-   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCIC%C3%8DOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)
+   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)
 
 4. **Converter segundos para horas, minutos e segundos.**  
-   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCIC%C3%8DOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)
+   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)
 
 5. **Calcular o percentual de aumento entre dois números.**  
-   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCIC%C3%8DOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)
+   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)
 
 6. **Gerar a tabela de multiplicação de um número.**  
-   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCIC%C3%8DOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)
+   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)
 
 7. **Calcular a média de notas de um aluno.**  
-   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCIC%C3%8DOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)
+   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)
 
 8. **Calcular a duração de um evento (exemplo: jogos).**  
-   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCIC%C3%8DOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)
+   - [Solução](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA03/blob/main/CAP08/EXERCICIOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)
 
 ---
 
-### Autor: calebeluz
